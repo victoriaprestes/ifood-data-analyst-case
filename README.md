@@ -6,7 +6,7 @@ O iFood é o principal aplicativo de entrega de comida no Brasil, com presença 
 Manter um alto engajamento dos clientes é fundamental para o crescimento e a consolidação da posição da empresa como líder de mercado. Os analistas de dados que trabalham na equipe de dados são constantemente desafiados a fornecer insights e valor para a empresa por meio de projetos de escopo aberto. Este caso tem como objetivo simular essa situação. Neste caso, você é apresentado a um conjunto de dados de exemplo, que simula metainformações sobre o cliente e sobre as interações das campanhas do iFood com esse cliente
 
 
-## A companhia
+## O Case
 Considere uma empresa bem estabelecida que opera no setor de varejo de alimentos. Atualmente, eles têm milhares de clientes registrados e atendem quase um milhão de consumidores por ano. Eles vendem produtos de 5 categorias principais: vinhos, carnes raras, frutas exóticas, peixes especialmente preparados e produtos doces. Esses produtos podem ser divididos em categorias ouro e regulares. Os clientes podem encomendar e adquirir produtos por meio de 3 canais de vendas: lojas físicas, catálogos e o site da empresa. Globalmente, a empresa teve receitas sólidas e uma margem de lucro saudável nos últimos 3 anos, mas as perspectivas de crescimento do lucro para os próximos 3 anos não são promissoras... Por essa razão, várias iniciativas estratégicas estão sendo consideradas para reverter essa situação. Uma delas é melhorar o desempenho das atividades de marketing, com um foco especial nas campanhas de marketing.
 
 ## Objetivos
