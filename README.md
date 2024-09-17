@@ -1,4 +1,4 @@
-# iFood Data Analyst Case - Uma Análise Exploratória
+# iFood Data Analyst Case - Uma Análise Exploratória em Python
 
 # Sobre o iFood
 
@@ -42,4 +42,11 @@ Considere uma empresa bem estabelecida que opera no setor de varejo de alimentos
 | `NumWebPurchases`         | Número de compras feitas pelo site da empresa                                                     |
 | `NumWebVisitsMonth`       | Número de visitas ao site da empresa no último mês                                                |
 | `Recency`                 | Número de dias desde a última compra                                                             |
+
+## Entregas
+
+1. Exploração de Dados;
+2. Segmentação;
+3. Modelo de Classificação;
+4. Apresentação de negócios.
 
