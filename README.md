@@ -47,6 +47,4 @@ Considere uma empresa bem estabelecida que opera no setor de varejo de alimentos
 
 1. Exploração de Dados;
 2. Segmentação;
-3. Modelo de Classificação;
 4. Apresentação de negócios.
-
