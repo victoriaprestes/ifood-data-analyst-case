@@ -1,4 +1,10 @@
 # iFood Data Analyst Case - Uma Análise Exploratória em Python
+## Sobre Mim
+
+Nesse projeto busquei em extrair o máximo de informações sobre as características dos clientes e como cada uma influencia seus hábitos de compra e aceitação de cada campanha. 
+Embora ainda exista espaço para descobertas, principalmente usando técnicas de machine learning, optei por fazer uma análise exploratória completa focando em métodos estatísticos e técnicas de programação em Python simples.
+Esse projeto foi utilizado como prática para o que venho estudando ao longo dos últimos meses e escolhi o case do iFood por ser uma empresa que gosto muito e por me possibilitar simular um cenário real. Qualquer sugestão ou crítica construtiva é bem vinda! 
+
 
 # Sobre o iFood
 
@@ -48,12 +54,5 @@ Considere uma empresa bem estabelecida que opera no setor de varejo de alimentos
 1. Exploração de Dados;
 2. Segmentação;
 4. Apresentação de negócios.
-5. 
-
-## Sobre Mim
-
-Nesse projeto busquei em extrair o máximo de informações sobre as características dos clientes e como cada uma influencia seus hábitos de compra e aceitação de cada campanha. 
-Embora ainda exista espaço para descobertas, principalmente usando técnicas de machine learning, optei por fazer uma análise exploratória completa focando em métodos estatísticos e técnicas de programação simples. 
 
 
-Esse projeto foi utilizado como prática para o que venho estudando ao longo dos últimos meses e escolhi o case do iFood por ser uma empresa que gosto muito e por me possibilitar simular um cenário real. Qualquer sugestão ou crítica construtiva é bem vinda! 
