@@ -1,5 +1,4 @@
 # iFood Data Analyst Case - Uma Análise Exploratória em Python
-## Sobre Mim
 
 Nesse projeto busquei em extrair o máximo de informações sobre as características dos clientes e como cada uma influencia seus hábitos de compra e aceitação de cada campanha. Optei por fazer uma análise exploratória completa focando em métodos estatísticos e técnicas de programação em Python simples, sem utilizar algoritmos de machine learning.
 Esse projeto foi utilizado como prática para o que venho estudando ao longo dos últimos meses e escolhi o case do iFood por ser uma empresa que gosto muito e por me possibilitar simular um cenário real. Qualquer sugestão ou crítica construtiva é bem vinda! 
@@ -25,7 +24,7 @@ Esse projeto foi utilizado como prática para o que venho estudando ao longo dos
 | `Marital`                 | Estado civil do cliente                                                                           |
 | `Kidhome`                 | Número de crianças pequenas no domicílio do cliente                                               |
 | `Teenhome`                | Número de adolescentes no domicílio do cliente                                                    |
-| `Income`                  | Renda anual do domicílio do cliente                                                               |
+| `Income`                  | Renda anual do cliente                                                                            |
 | `MntFishProducts`         | Valor gasto em produtos de peixe nos últimos 2 anos                                               |
 | `MntMeatProducts`         | Valor gasto em produtos de carne nos últimos 2 anos                                               |
 | `MntFruits`               | Valor gasto em frutas nos últimos 2 anos                                                          |
@@ -33,9 +32,9 @@ Esse projeto foi utilizado como prática para o que venho estudando ao longo dos
 | `MntWines`                | Valor gasto em vinhos nos últimos 2 anos                                                          |
 | `MntGoldProds`            | Valor gasto em produtos de ouro nos últimos 2 anos                                                |
 | `NumDealsPurchases`       | Número de compras feitas com desconto                                                             |
-| `NumCatalogPurchases`     | Número de compras feitas via catálogo                                                            |
+| `NumCatalogPurchases`     | Número de compras feitas via catálogo                                                             |
 | `NumStorePurchases`       | Número de compras feitas diretamente em lojas                                                     |
 | `NumWebPurchases`         | Número de compras feitas pelo site da empresa                                                     |
 | `NumWebVisitsMonth`       | Número de visitas ao site da empresa no último mês                                                |
-| `Recency`                 | Número de dias desde a última compra                                                             |
+| `Recency`                 | Número de dias desde a última compra                                                              |
 
