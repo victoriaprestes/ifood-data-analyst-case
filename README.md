@@ -1,23 +1,13 @@
 # iFood Data Analyst Case - Uma Análise Exploratória em Python
 ## Sobre Mim
 
-Nesse projeto busquei em extrair o máximo de informações sobre as características dos clientes e como cada uma influencia seus hábitos de compra e aceitação de cada campanha. 
-Embora ainda exista espaço para descobertas, principalmente usando técnicas de machine learning, optei por fazer uma análise exploratória completa focando em métodos estatísticos e técnicas de programação em Python simples.
+Nesse projeto busquei em extrair o máximo de informações sobre as características dos clientes e como cada uma influencia seus hábitos de compra e aceitação de cada campanha. Optei por fazer uma análise exploratória completa focando em métodos estatísticos e técnicas de programação em Python simples, sem utilizar algoritmos de machine learning.
 Esse projeto foi utilizado como prática para o que venho estudando ao longo dos últimos meses e escolhi o case do iFood por ser uma empresa que gosto muito e por me possibilitar simular um cenário real. Qualquer sugestão ou crítica construtiva é bem vinda! 
 
 
-# Sobre o iFood
-
-O iFood é o principal aplicativo de entrega de comida no Brasil, com presença em mais de mil cidades em todo o país. Ele conecta milhões de usuários a uma ampla variedade de restaurantes, oferecendo desde fast food até culinária gourmet. A interface amigável da plataforma permite que os clientes naveguem facilmente pelos menus, façam pedidos e acompanhem as entregas em tempo real. 
-Manter um alto engajamento dos clientes é fundamental para o crescimento e a consolidação da posição da empresa como líder de mercado. Os analistas de dados que trabalham na equipe de dados são constantemente desafiados a fornecer insights e valor para a empresa por meio de projetos de escopo aberto. Este caso tem como objetivo simular essa situação. Neste caso, você é apresentado a um conjunto de dados de exemplo, que simula metainformações sobre o cliente e sobre as interações das campanhas do iFood com esse cliente
-
-
-## O Case
-Considere uma empresa bem estabelecida que opera no setor de varejo de alimentos. Atualmente, eles têm milhares de clientes registrados e atendem quase um milhão de consumidores por ano. Eles vendem produtos de 5 categorias principais: vinhos, carnes raras, frutas exóticas, peixes especialmente preparados e produtos doces. Esses produtos podem ser divididos em categorias ouro e regulares. Os clientes podem encomendar e adquirir produtos por meio de 3 canais de vendas: lojas físicas, catálogos e o site da empresa. Globalmente, a empresa teve receitas sólidas e uma margem de lucro saudável nos últimos 3 anos, mas as perspectivas de crescimento do lucro para os próximos 3 anos não são promissoras... Por essa razão, várias iniciativas estratégicas estão sendo consideradas para reverter essa situação. Uma delas é melhorar o desempenho das atividades de marketing, com um foco especial nas campanhas de marketing.
-
 ## Objetivos
-1. Explore os dados – seja criativo e preste atenção aos detalhes. Você precisa fornecer à equipe de marketing uma melhor compreensão das características dos respondentes;
-2. Proponha e descreva uma segmentação de clientes baseada nos comportamentos dos clientes.
+1. Exploração dos dados – fornecer uma melhor compreensão das características dos respondentes;
+2. Propor uma segmentação de clientes baseada em seus comportamentos.
 
 ## O dataset
 
@@ -48,11 +38,4 @@ Considere uma empresa bem estabelecida que opera no setor de varejo de alimentos
 | `NumWebPurchases`         | Número de compras feitas pelo site da empresa                                                     |
 | `NumWebVisitsMonth`       | Número de visitas ao site da empresa no último mês                                                |
 | `Recency`                 | Número de dias desde a última compra                                                             |
-
-## Entregas
-
-1. Exploração de Dados;
-2. Segmentação;
-4. Apresentação de negócios.
-
 
